@@ -1,0 +1,25 @@
+{
+  "events": [
+    {
+      "id": 2,
+      "eventName": "new event",
+      "location": "Bangalore",
+      "guest": "simplilearn",
+      "date": "2021-12-22"
+    },
+    {
+      "id": 123,
+      "eventName": "changes done",
+      "location": "Chennai",
+      "guest": "Me",
+      "date": "2021-12-31"
+    },
+    {
+      "id": 1,
+      "eventName": "testing simpli",
+      "location": "Bangalore",
+      "guest": "simplilearn",
+      "date": ""
+    }
+  ]
+}
